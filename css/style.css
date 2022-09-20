@@ -1,0 +1,42 @@
+.btn-signup{
+  background-color: rgb(27, 207, 72) !important;
+  margin-top: -10px;
+}
+.floating-card{
+    float: left;
+    margin: 5px;
+    max-width: 300px;
+
+}
+img{
+    height: 200px;
+}
+.card-container {
+    background-color: red;
+    width: 90%;
+    margin-left: 8%;
+}
+.btn-form{
+    border: none;
+
+}
+.photo{
+    width: 50%;
+    height: auto;
+}
+.description{
+    width: 500px;
+}
+.side-image{
+    float: right;
+    width: 600px;
+    height: auto;
+    margin-top: -150px;
+}
+.unselectable {
+    -moz-user-select: -moz-none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
